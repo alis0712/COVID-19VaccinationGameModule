@@ -7,5 +7,5 @@ In this game I made the following
 1) Created a custom terrain and environment, and rigged 3d models to perform certain animations with the help of Adobe Mixamo. 
 2) Added a Player Controller to the Scene
 3) Added custom audio components to the Scene. 
-4) Created obstacles with health counter (behavior). When the player enters the fire it loses its health. 
+4) Created obstacles with health counter (behavior). When the player enters the fire it loses its health, or when it enters the fire. 
 5) Created an evacuation drill, where certain NPCs are running away and other NPCs are going towards the hospital. 
